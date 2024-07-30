@@ -2,7 +2,7 @@
 My solutions to the labs of CSAPP
 
 ## Progress
-- [x] Data Lab
+- [ ] Data Lab
 - [ ] Bomb Lab
 - [ ] Attack Lab
 - [ ] Architecture Lab
